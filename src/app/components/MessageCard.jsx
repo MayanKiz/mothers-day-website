@@ -35,7 +35,7 @@ export default function MessageCard() {
                             <h2 className="text-3xl md:text-4xl mb-6 text-pink-600 font-bold">Dear Mom❤️</h2>
 
                             <div className="space-y-4 text-purple-800 text-lg">
-                                <p>On this special day, I want to tell you how much you mean to me.</p>
+                                <p>इस विशेष दिन पर, मैं आपको बताना चाहता हूं कि आप मेरे लिए कितने मायने रखते हैं। </p>
                                 <p>Your love has been my greatest blessing.</p>
                             </div>
 
@@ -84,10 +84,10 @@ export default function MessageCard() {
                             transition={{ delay: 0.6 }}
                         >
                             <div className="space-y-2 text-purple-800 text-lg">
-                                <p>In your arms, I found my first home.</p>
-                                <p>In your voice, I heard my first lullaby.</p>
-                                <p>In your eyes, I saw unconditional love.</p>
-                                <p>Thank you for being my strength, my guide, and my eternal sunshine.</p>
+                                <p>तुम्हारी बाहों में मुझे अपना पहला घर मिला .</p>
+                                <p>तुम्हारी आवाज़ में मैंने अपनी पहली लोरी सुनी। </p>
+                                <p>तुम्हारी आँखों में मैंने बिना शर्त वाला प्यार देखा। </p>
+                                <p>मेरी ताकत, मेरा मार्गदर्शक और मेरी शाश्वत धूप बनने के लिए धन्यवाद .</p>
                             </div>
 
                             <motion.button
