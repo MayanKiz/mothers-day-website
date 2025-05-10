@@ -123,7 +123,7 @@ export default function FinalCard() {
                                         animate={{ opacity: 1 }}
                                         transition={{ delay: 0.5 }}
                                     >
-                                        I love you more than words can express. Thank you for being my everything, Mom!❤️
+                                        मैं तुमसे इतना प्यार करता हूँ जितना शब्दों में बयां नहीं किया जा सकता। मेरी हर चीज़ होने के लिए शुक्रिया, माँ!❤️ 
                                     </motion.p>
 
                                     <motion.div
