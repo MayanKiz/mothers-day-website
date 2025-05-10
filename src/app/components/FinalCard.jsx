@@ -114,7 +114,7 @@ export default function FinalCard() {
 
                                         <h3 className="text-3xl md:text-4xl font-bold text-pink-600 mb-2">With all my love,</h3>
 
-                                        <h3 className="text-4xl md:text-5xl font-bold text-purple-600">Anuj</h3>
+                                        <h3 className="text-4xl md:text-5xl font-bold text-purple-600">Mayank</h3>
                                     </motion.div>
 
                                     <motion.p
