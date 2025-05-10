@@ -7,11 +7,15 @@ import { Heart, Star, ArrowLeft, ArrowRight } from "lucide-react"
 export default function MemoriesCard() {
     const [activeMemory, setActiveMemory] = useState(0)
     const memories = [
-        "You always knew how to make me smile, even on my worst days.",
-        "Your cooking has always been the best comfort in the world.",
-        "The way you held my hand when I was scared gave me courage.",
-        "Your bedtime stories were magical adventures I'll never forget.",
-        "You taught me that kindness is the greatest strength.",
+        "आप हमेशा जानते थे कि मुझे कैसे मुस्कुराना है, यहाँ तक कि मेरे सबसे बुरे दिनों में भी।",
+
+"आपका खाना हमेशा दुनिया का सबसे अच्छा आराम रहा है।",
+
+"जब मैं डरा हुआ था तो आपने जिस तरह से मेरा हाथ थामा, उससे मुझे हिम्मत मिली।",
+
+"आपकी सोते समय की कहानियाँ जादुई रोमांच थीं जिन्हें मैं कभी नहीं भूलूँगा।",
+
+"आपने मुझे सिखाया कि दयालुता सबसे बड़ी ताकत है।", 
     ]
 
     return (
